@@ -108,7 +108,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📧 Contact
 
-For questions or suggestions, open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or suggestions, open an issue or contact [kalelsaurabh9@gmail.com]
 
 ---
 
@@ -118,4 +118,4 @@ If you like this project, please give it a ⭐️ on GitHub!
 
 ---
 
-Made with ❤️ by a beginner, for beginners!
+
